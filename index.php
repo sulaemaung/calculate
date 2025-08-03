@@ -1,7 +1,7 @@
 <?php
   $a="f";
   $b="c";
-  $c="";
+  $c="d";
   $result1="";
   $result2="";
   if(isset($_GET['equal'])){
